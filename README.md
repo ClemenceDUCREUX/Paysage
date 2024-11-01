@@ -1,8 +1,8 @@
 # Projet Paysage
 
-Bonjour Monsieur Hernandez,
+Bonjour,
 
-Voici notre projet **"Paysage"**. Vous trouverez ici plusieurs répertoires :
+Voici le projet **"Paysage"**. Vous trouverez ici plusieurs répertoires :
 
 - **src** : qui contient le code source de notre projet.
 - **bin** : qui contient lui-même un répertoire **src**, qui contiendra les fichiers `.class`.
