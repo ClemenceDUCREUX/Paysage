@@ -23,4 +23,3 @@ Voici les commandes que vous pouvez utiliser avec le `Makefile` :
 - **`make run`** : Exécute le programme en lançant la classe principale `src.Main`.
 
 - **`make clean`** : Supprime tous les fichiers `.class` du répertoire `bin/src` ainsi que l'archive JAR `SAE31-2024.jar`, permettant de repartir d'une base propre.
-# EDNALG
